@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "run": "node saxer.js"
+  },
+  "dependencies": {
+    "sax": "^1.2.4"
+  }
+}
